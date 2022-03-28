@@ -57,7 +57,7 @@ header > h1 {
 header > p {
     font-family: var(--fonte-padrao); /* Fonte do paragrafo */
     font-size: 1.2em; /* Tamanho da fonte */
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     color: white; /* Cor da fonte do paragrafo dentro do header */
     max-width: 600px; /* Largura maxima */
     padding-right: 10px; /* Espaço na direita */
